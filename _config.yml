@@ -1,5 +1,5 @@
-title: Slate theme
+title: ashley link hub
 description: Slate is a theme for GitHub Pages.
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-cayman
